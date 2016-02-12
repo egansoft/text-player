@@ -1,0 +1,23 @@
+{
+  "name": "text-player",
+  "version": "0.1.0",
+  "description": "Text to play songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egansoft/text-player.git"
+  },
+  "author": "Nicholas Egan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egansoft/text-player/issues"
+  },
+  "homepage": "https://github.com/egansoft/text-player#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "yt321": "https://registry.npmjs.org/yt321/-/yt321-1.1.2.tgz"
+  }
+}
